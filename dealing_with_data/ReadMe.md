@@ -4,7 +4,7 @@ Folder named "dealing_with_data" deals with brain mesh and cortical thickness da
 							      freesurfer surfaces files.
 
 
-        (2)  decimate_mesh.py --->  reduces mesh nodes and edges for 
+        	(2)  decimate_mesh.py --->  reduces mesh nodes and edges for 
 									quick processing.
 
 		
