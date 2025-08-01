@@ -1,3 +1,5 @@
+# In Brief
+
 • "coloured_torus" folder is used to generate data for synthetic data experiment.
 
 • "dealing_with_data" folder generates data for cortical thickness data experiment.
