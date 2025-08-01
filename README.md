@@ -8,6 +8,6 @@ process only a single channel of input (cortical thickness).
 
 # Synthetic Data Generation Results
 
-![Ground Truth](path/to/your.gif)
+![Ground Truth](Gaussian_spot_experiment/IE_synthetic_data_work/Explaining_Shape_Variability-master/src/DeepLearning/compute_canada/guided_vae/animations/spot(ground_truth).gif)
 
-![Generated Data (varying Z from 0 to 1 accounts one round trip for spot)](path/to/your.gif)
+![Generated Data (varying Z from 0 to 1 accounts one round trip for spot)](Gaussian_spot_experiment/IE_synthetic_data_work/Explaining_Shape_Variability-master/src/DeepLearning/compute_canada/guided_vae/animations/spot(generated_via_Z).gif)
