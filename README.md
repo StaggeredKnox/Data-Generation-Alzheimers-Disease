@@ -10,12 +10,15 @@ process only a single channel of input (cortical thickness).
 
 <table>
   <tr>
-    <td align="left">
-      <img src="Gaussian_spot_experiment/IE_synthetic_data_work/Explaining_Shape_Variability-master/src/DeepLearning/compute_canada/guided_vae/animations/spot(ground_truth).gif" alt="Ground Truth" width="400"/>
+    <td align="center">
+      <img src="Gaussian_spot_experiment/IE_synthetic_data_work/Explaining_Shape_Variability-master/src/DeepLearning/compute_canada/guided_vae/animations/spot(ground_truth).gif" width="400"/><br/>
+      <strong>Ground Truth</strong>
     </td>
-    <td align="right">
-      <img src="Gaussian_spot_experiment/IE_synthetic_data_work/Explaining_Shape_Variability-master/src/DeepLearning/compute_canada/guided_vae/animations/spot(generated_via_Z).gif" alt="Generated Data" width="400"/>
+    <td align="center">
+      <img src="Gaussian_spot_experiment/IE_synthetic_data_work/Explaining_Shape_Variability-master/src/DeepLearning/compute_canada/guided_vae/animations/spot(generated_via_Z).gif" width="400"/><br/>
+      <strong>Generated (Varying Z)</strong>
     </td>
   </tr>
 </table>
+
 
